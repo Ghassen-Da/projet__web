@@ -37,8 +37,8 @@
 }
 
 .button_log_sig svg .o1 {
-  stroke: #494c4e;
-  fill: #a4a4a5;
+  stroke: #1d4966;
+  fill: #c0dfe7;
   -webkit-transition: all 0.8s ease-in-out;
   transition: all 0.8s ease-in-out;
 }
@@ -114,7 +114,6 @@
 .sticky {
   position: fixed !important;
   top: 0 !important;
-  
 }
 
 header {
@@ -151,6 +150,7 @@ body {
 .fade_in.appear {
   opacity: 1;
 }
+
 /* 
 #whole_page_container {
   width: 100%;
@@ -270,7 +270,7 @@ button {
   justify-self: center;
 }
 
-#btn_container{
+#btn_container {
   text-align: center;
   margin-bottom: 40px;
   margin-top: 30px;
@@ -284,7 +284,7 @@ button.flexibility {
   margin-left: 3%;
   margin-right: 3%;
   padding: 3% 7%;
-  background: #fff;
+  background: #c0dfe7;
   text-transform: uppercase;
 }
 
